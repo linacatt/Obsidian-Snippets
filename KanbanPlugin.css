@@ -20,11 +20,6 @@ body {
 	position: relative;
 }
 
-/* link */
-body .kanban-plugin__item-title :link {
-	font-weight: 450;
-}
-
 body .kanban-plugin__lane-wrapper .kanban-plugin__item-form {
 	border: none;
 }
