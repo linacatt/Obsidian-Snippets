@@ -1,0 +1,16 @@
+/* Links colors */
+.theme-dark,
+.theme-light {
+
+  /* internal links  */
+  --link-color: #f9e2af;
+  --link-color-hover: #f5e0dc;
+
+  /* external links */
+  --link-external-color: #89dceb;
+  --link-external-color-hover: #bcf5f5;
+  --link-external-filter: none;
+
+  /* unresolved links */
+  --link-unresolved-color: #f9e2af;
+}

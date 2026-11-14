@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "a51ce6af3f5d8555",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0c9af278797ef0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80f46f47eae2d310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Markdown"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9c2f032bbf67f6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e446d2366d620ad1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a33ae76b590c203",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "022316b280c7fb74",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "5bcc50a0310c9a87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "caf85d70bcbbb21d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218.59212112426758
+  },
+  "right": {
+    "id": "1f62e4972026b3fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "a176951aeb2baf13",
+        "type": "tabs",
+        "dimension": 36.63157894736842,
+        "children": [
+          {
+            "id": "a281c2e3a364f60b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Markdown.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "ebd4cbb1003e32da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Markdown.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "0070d0e0ee16311e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "050d3fa57af64e4b",
+        "type": "tabs",
+        "dimension": 63.368421052631575,
+        "children": [
+          {
+            "id": "0d1ef0c99038a3c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Markdown.md"
+              },
+              "icon": "lucide-info",
+              "title": "Propriedades dos arquivos"
+            }
+          },
+          {
+            "id": "841853ee8d588c99",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Markdown.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Notas de rodapé"
+            }
+          },
+          {
+            "id": "3f94ca59e32474b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5340576171875
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Abrir a troca rápida": false,
+      "templates:Inserir modelo": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "bases:Criar nova base": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "daily-notes:Abrir a nota de hoje": false
+    }
+  },
+  "active": "9a33ae76b590c203",
+  "lastOpenFiles": [
+    "02 Templates/📝 New template.md",
+    "02 Templates/🗓️ Daily template.md",
+    "Markdown.md",
+    "Daily Notes/2026/11/14 de novembro, 2026.md",
+    "Notes",
+    "Daily Notes/2026/11",
+    "Daily Notes/2026",
+    "Daily Notes/2026/11/13.md",
+    "Daily Notes",
+    "04 Archive",
+    "02 Templates",
+    "01 Assets"
+  ]
+}
