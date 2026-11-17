@@ -3,7 +3,6 @@ date: 2026-11-14
 type: Note
 tags:
 ---
-
 ---
 O Obsidian funciona com **Markdown**, então é importante lembrar quais são os comandos. Algumas referências:
 

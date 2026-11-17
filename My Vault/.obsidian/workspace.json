@@ -156,8 +156,7 @@
               "title": "Todas as propriedades"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "050d3fa57af64e4b",
@@ -220,10 +219,10 @@
       "daily-notes:Abrir a nota de hoje": false
     }
   },
-  "active": "9a33ae76b590c203",
+  "active": "a281c2e3a364f60b",
   "lastOpenFiles": [
-    "02 Templates/📝 New template.md",
     "02 Templates/🗓️ Daily template.md",
+    "02 Templates/📝 New template.md",
     "Markdown.md",
     "Daily Notes/2026/11/14 de novembro, 2026.md",
     "Notes",
